@@ -182,6 +182,9 @@ p {
   font-family: 'Merriweather', serif;
   color: #ff8567;
 }
+.navbar a:hover{
+  color: white;
+}
 
 .logo{
   width: 5%;
